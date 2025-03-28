@@ -15,7 +15,7 @@ This is a fan website dedicated to Professor Minerva McGonagall, the legendary T
 
 - Frontend: HTML, CSS, JavaScript
 - Styling: Tailwind CSS / SCSS
-- Deployment: Plesk / GitHub Pages
+- Deployment: GitHub Pages
 
 ## Contributing
 
@@ -32,8 +32,7 @@ Thank you to my mentors and peers for all their constructive feedback and sugges
 
 ## Built With
 
-- Python 3.8
-- Tkinter
+- HTML / CSS
 
 ## Contact
 
