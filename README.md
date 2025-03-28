@@ -1,4 +1,5 @@
 ## Minerva McGonagall Fansite
+![preview main](./frame_1.png)
 
 # Project Description
 
